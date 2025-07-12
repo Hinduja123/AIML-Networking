@@ -1,0 +1,39 @@
+# Virtual environments
+venv/
+.env/
+
+# Python cache
+_pycache_/
+*.py[cod]
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS/Editor specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs and debugging
+*.log
+
+# Machine learning model/data files
+*.csv
+*.tsv
+*.xlsx
+*.pkl
+*.h5
+*.onnx
+*.joblib
+*.npy
+*.zip
+*.tar.gz
+*.so
+
+# System-generated
+*.exe
+*.dll
+
+# VS Code
+.vscode/
